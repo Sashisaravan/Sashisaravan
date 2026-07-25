@@ -6,14 +6,10 @@ I'm a Product Engineer with **2.5+ years of startup experience** building scalab
 
 - 🔭 Currently building enterprise HR applications at **Chillsoft.io**
 - 💼 2.5+ Years of Product Development Experience
-- 🌱 Currently learning **System Design, Node.js & AI Integration**
-- 🤖 Exploring AI-powered applications using LLM APIs
 - 💬 Ask me about **React.js, JavaScript, SQL Server, REST APIs, Material UI**
 - 📫 Reach me: **sashisaravan2000@gmail.com**
 - 🌐 Portfolio: https://sashi-saravan-portfolio.vercel.app/
 - 💼 LinkedIn: https://linkedin.com/in/sashi-saravan
-- ⚡ Fun fact: I enjoy building products that solve real business problems.
-
 ---
 
 # 🚀 Tech Stack
