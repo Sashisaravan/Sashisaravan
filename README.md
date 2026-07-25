@@ -52,46 +52,6 @@ I'm a Product Engineer with **2.5+ years of startup experience** building scalab
 
 ---
 
-# 🌟 Featured Projects
-
-### 🤖 AI Job Description Builder
-Generate professional job descriptions using AI with customizable templates and export to PDF/Word.
-
-**Tech:** React.js • Node.js • Express.js • Groq API
-
----
-
-### 💼 Travel Management System
-An enterprise travel request and approval workflow featuring multi-level approvals, finance validation, and complete travel lifecycle management.
-
-**Tech:** React.js • SQL Server • REST APIs
-
----
-
-### 🎫 Chill Fix
-An internal ticket management system that streamlines issue tracking, client requests, and automated reporting.
-
-**Tech:** React.js • SQL Server • Stored Procedures
-
----
-
-### 🌐 Personal Portfolio
-A modern portfolio showcasing projects, skills, and professional experience.
-
-**Built with:** React • Vite • Material UI
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SVSashi05&theme=tokyonight&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="left">
@@ -101,9 +61,5 @@ A modern portfolio showcasing projects, skills, and professional experience.
 </p>
 
 ---
-
-### 💡 Quote
-
-> *"Great products are built by solving real user problems with clean, scalable, and thoughtful engineering."*
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
