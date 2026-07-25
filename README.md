@@ -86,24 +86,6 @@ A modern portfolio showcasing projects, skills, and professional experience.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SVSashi05&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVSashi05&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SVSashi05&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -111,12 +93,6 @@ A modern portfolio showcasing projects, skills, and professional experience.
 <img src="https://github-profile-trophy.vercel.app/?username=SVSashi05&theme=tokyonight&margin-w=15&row=2&column=4"/>
 
 </p>
-
----
-
-# 📊 Activity Graph
-
-[![Sashi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SVSashi05&theme=tokyo-night)](https://github.com/SVSashi05)
 
 ---
 
