@@ -2,7 +2,7 @@
 
 ### 🚀 Product Engineer | Frontend Developer | React.js Developer
 
-I'm a Product Engineer with **2.5+ years of startup experience** building scalable web applications and enterprise HR Tech products. I enjoy transforming complex business requirements into clean, intuitive, and high-performance user experiences.
+I'm a Product Engineer with **2.5+ years** of startup experience building scalable web applications and enterprise HR Tech products. Passionate about delivering intuitive, high-performance solutions that bridge complex business requirements with exceptional user experiences.
 
 - 🔭 Currently building enterprise HR applications at **Chillsoft.io**
 - 💼 2.5+ Years of Product Development Experience
@@ -57,9 +57,4 @@ I'm a Product Engineer with **2.5+ years of startup experience** building scalab
 <p align="left">
 <a href="https://linkedin.com/in/sashi-saravan"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:sashisaravan2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://github.com/SVSashi05"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
