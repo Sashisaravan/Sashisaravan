@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sashi Saravan
 
-### 🚀 Product Engineer | Frontend Developer | React.js Developer
+### 🚀 Product Engineer
 
 I'm a Product Engineer with **2.5+ years** of startup experience building scalable web applications and enterprise HR Tech products. Passionate about delivering intuitive, high-performance solutions that bridge complex business requirements with exceptional user experiences.
 
